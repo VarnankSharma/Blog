@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie": "^0.6.0",
+    "cookie-parser": "^1.4.6",
+    "cookieparser": "^0.1.0",
+    "date-fns": "^3.6.0",
+    "parser": "^0.1.4"
+  }
+}
